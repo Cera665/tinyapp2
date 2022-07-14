@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Cera665/tinyapp2/issues"
   },
-  "homepage": "https://github.com/Cera665/tinyapp2#readme"
+  "homepage": "https://github.com/Cera665/tinyapp2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
